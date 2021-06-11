@@ -3,6 +3,13 @@
   color: white;
 }
 
+.row h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
 .row_posters {
   display: flex;
   overflow-y: hidden;
@@ -17,8 +24,8 @@
 .row_poster {
   object-fit: contain;
   width: 100%;
-  max-height: 150px;
-  margin-right: 10px;
+  max-height: 200px;
+  margin-right: 20px;
   transition: transform 450ms;
   border-radius: 5px;
 }
@@ -28,7 +35,7 @@
 }
 
 .row_posterLarge {
-  max-height: 400px;
+  max-height: 535px;
 }
 
 .row_posterLarge:hover {
