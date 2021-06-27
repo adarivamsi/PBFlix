@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adarivamsi.github.io/pbflix/static/css/main.f34b491f.chunk.css",
+    "main.js": "/adarivamsi.github.io/pbflix/static/js/main.9422e770.chunk.js",
+    "main.js.map": "/adarivamsi.github.io/pbflix/static/js/main.9422e770.chunk.js.map",
+    "runtime-main.js": "/adarivamsi.github.io/pbflix/static/js/runtime-main.58ac4e61.js",
+    "runtime-main.js.map": "/adarivamsi.github.io/pbflix/static/js/runtime-main.58ac4e61.js.map",
+    "static/js/2.83b4b532.chunk.js": "/adarivamsi.github.io/pbflix/static/js/2.83b4b532.chunk.js",
+    "static/js/2.83b4b532.chunk.js.map": "/adarivamsi.github.io/pbflix/static/js/2.83b4b532.chunk.js.map",
+    "index.html": "/adarivamsi.github.io/pbflix/index.html",
+    "precache-manifest.8c2e9890008d3932969ba3a05880c71e.js": "/adarivamsi.github.io/pbflix/precache-manifest.8c2e9890008d3932969ba3a05880c71e.js",
+    "service-worker.js": "/adarivamsi.github.io/pbflix/service-worker.js",
+    "static/css/main.f34b491f.chunk.css.map": "/adarivamsi.github.io/pbflix/static/css/main.f34b491f.chunk.css.map",
+    "static/js/2.83b4b532.chunk.js.LICENSE.txt": "/adarivamsi.github.io/pbflix/static/js/2.83b4b532.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58ac4e61.js",
+    "static/js/2.83b4b532.chunk.js",
+    "static/css/main.f34b491f.chunk.css",
+    "static/js/main.9422e770.chunk.js"
+  ]
+}
