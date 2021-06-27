@@ -14,7 +14,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 ![](https://github.com/adarivamsi/React-Applications/blob/master/pbflix/pbflix.gif)
 
-Demo: [Link](https://pbflix-550e3.web.app/)
+Demo: [Link](https://adarivamsi.github.io/pbflix/)
 
 Please feel free to create a pull request and submit any issues!
 
