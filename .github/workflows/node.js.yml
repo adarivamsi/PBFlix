@@ -5,7 +5,9 @@ name: CI/CD
 
 on:
   push:
-    branches: [ main, gh-pages ]
+    branches:
+      - main
+      - 'gh-pages'
   pull_request:
     branches: [ main ]
 
