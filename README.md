@@ -6,7 +6,7 @@ This project is a simplified front-end clone of Netflix. It was created with Rea
 
 - ReactJS
 - Axios
-- MovieUrl
+- MovieDB
 
 ## Demo
 
