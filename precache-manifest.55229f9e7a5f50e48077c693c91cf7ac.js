@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce98938289ca89f6bcffb5c0c6252d91",
+    "revision": "bae34c07c552ef8810beb55770462c1f",
     "url": "/pbflix/index.html"
   },
   {
-    "revision": "6004e31bd65a1cb32361",
-    "url": "/pbflix/static/css/main.940c266d.chunk.css"
+    "revision": "b104648fc1815e90f7bf",
+    "url": "/pbflix/static/css/main.f34b491f.chunk.css"
   },
   {
     "revision": "9c9238e325013bdb97a2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pbflix/static/js/2.83b4b532.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6004e31bd65a1cb32361",
-    "url": "/pbflix/static/js/main.5b3024fb.chunk.js"
+    "revision": "b104648fc1815e90f7bf",
+    "url": "/pbflix/static/js/main.3609143f.chunk.js"
   },
   {
     "revision": "537581247e32c04415d0",
