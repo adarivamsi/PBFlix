@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pbflix/precache-manifest.51618eeb6c6f8f9339d78019ef06c80d.js"
+  "/pbflix/precache-manifest.0baba6e98d628ef8a73a77fab8e23d21.js"
 );
 
 self.addEventListener('message', (event) => {
