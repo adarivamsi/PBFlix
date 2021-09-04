@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6353f8e81fb3b7fa832a0a7363db195",
+    "revision": "6dded11b196468d19a9bc708bdced8e9",
     "url": "/pbflix/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pbflix/static/css/main.e9f49dc8.chunk.css"
   },
   {
-    "revision": "75a4b48b058a9ff0f115",
-    "url": "/pbflix/static/js/2.f6edad27.chunk.js"
+    "revision": "46099a94ea94e00bb950",
+    "url": "/pbflix/static/js/2.2a7a928e.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/pbflix/static/js/2.f6edad27.chunk.js.LICENSE.txt"
+    "url": "/pbflix/static/js/2.2a7a928e.chunk.js.LICENSE.txt"
   },
   {
     "revision": "217fcf261d156384d492",

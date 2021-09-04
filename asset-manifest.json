@@ -5,17 +5,17 @@
     "main.js.map": "/pbflix/static/js/main.fd244525.chunk.js.map",
     "runtime-main.js": "/pbflix/static/js/runtime-main.940ec683.js",
     "runtime-main.js.map": "/pbflix/static/js/runtime-main.940ec683.js.map",
-    "static/js/2.f6edad27.chunk.js": "/pbflix/static/js/2.f6edad27.chunk.js",
-    "static/js/2.f6edad27.chunk.js.map": "/pbflix/static/js/2.f6edad27.chunk.js.map",
+    "static/js/2.2a7a928e.chunk.js": "/pbflix/static/js/2.2a7a928e.chunk.js",
+    "static/js/2.2a7a928e.chunk.js.map": "/pbflix/static/js/2.2a7a928e.chunk.js.map",
     "index.html": "/pbflix/index.html",
-    "precache-manifest.2814ab20309c257885659a31176e634c.js": "/pbflix/precache-manifest.2814ab20309c257885659a31176e634c.js",
+    "precache-manifest.0baba6e98d628ef8a73a77fab8e23d21.js": "/pbflix/precache-manifest.0baba6e98d628ef8a73a77fab8e23d21.js",
     "service-worker.js": "/pbflix/service-worker.js",
     "static/css/main.e9f49dc8.chunk.css.map": "/pbflix/static/css/main.e9f49dc8.chunk.css.map",
-    "static/js/2.f6edad27.chunk.js.LICENSE.txt": "/pbflix/static/js/2.f6edad27.chunk.js.LICENSE.txt"
+    "static/js/2.2a7a928e.chunk.js.LICENSE.txt": "/pbflix/static/js/2.2a7a928e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.940ec683.js",
-    "static/js/2.f6edad27.chunk.js",
+    "static/js/2.2a7a928e.chunk.js",
     "static/css/main.e9f49dc8.chunk.css",
     "static/js/main.fd244525.chunk.js"
   ]
